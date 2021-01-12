@@ -3,6 +3,6 @@
 **Simple python calculator, you can -
 
 - addition
-- multiplying
+- multiplications
 - deduction
 - division
