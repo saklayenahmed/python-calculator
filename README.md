@@ -1,4 +1,4 @@
-# python-calculator
+# Python Calculator
 
 **Simple python calculator, you can -
 
