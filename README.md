@@ -1,6 +1,6 @@
 # Python Calculator
 
-**Simple python calculator, you can -
+** Simple python calculator, you can -**
 
 - addition
 - multiplications
